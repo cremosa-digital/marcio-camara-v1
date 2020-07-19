@@ -1,0 +1,37 @@
+{
+    "@metadata": {
+        "authors": [
+            "Marcio Câmara"
+        ],
+        "last-updated": "2019-03-12",
+        "locale": "es"
+    },
+    "marciocamara-menu-about": "Sobre Mi",
+    "marciocamara-menu-skills": "Mis Habilidades",
+    "marciocamara-menu-book": "Mi Libro",
+    "marciocamara-menu-contact": "Contacto",
+    "marciocamara-greetings": "¡Hola! Mi nombre es Marcio Câmara y yo soy un",
+    "marciocamara-job": "Desarrollador Web",
+    "marciocamara-button-more": "Descubre más",
+    "marciocamara-about-title": "Un poco sobre mi historia, sueños y deseos!",
+    "marciocamara-about-paragraph1": "Bueno, yo soy un estudiante del 2º semestre de Análisis y Desarrollo de Sistemas en la FATEC Americana y apasionado por la programación.",
+    "marciocamara-about-paragraph2": "Actualmente estoy trabajando como Desarrollador Web, creando desde sitios simples hasta el más variado tipo de sistemas más complejos.",
+    "marciocamara-about-paragraph3": "Mi mayor objetivo actualmente es convertirme en el mejor profesional que pueda ser, aprendiendo otros lenguajes de programación y haciendo parte de grandes e inspiradores proyectos.",
+    "marciocamara-about-paragraph4": "Mi mayor sueño es vivir en los Estados Unidos para trabajar y estudiar en los tan soñados Valle del Silicio y MIT.",
+    "marciocamara-about-paragraph5": "Recientemente estoy trabajando en un libro y un curso para enseñar la lógica de programación. Enseñar es algo que realmente me gusta y realmente me hace sentir realizado. Poder mostrar a las otras personas un poco sobre lo que yo aprendí hasta aquí es algo que me hace feliz.",
+    "marciocamara-skills-title": "Mis Habilidades e Intereses",
+    "marciocamara-accessibility": "Accesibilidad",
+    "marciocamara-responsive-design": "Diseño Responsable",
+    "marciocamara-book-title": "Sobre el Libro",
+    "marciocamara-book-paragraph1": "Al entrar en el mundo de la programación, el viajero puede sentirse algo intimidado y perdido, en vista de tantos caminos diferentes que deben ser despejados.",
+    "marciocamara-book-paragraph2": "Las treinta páginas de este libro compacto (por ahora solo en portugués), titulado \"Entrando com Tudo no Mundo da Programação\" le brinda al lector todas las herramientas y los conocimientos necesarios para que pueda explorar las muchas opciones que seguirán.",
+    "marciocamara-book-list-title": "En este libro podrás ver:",
+    "marciocamara-book-justify-title": "Porque este libro?",
+    "marciocamara-book-justify-paragraph1": "En el libro \"Entrando com Tudo no Mundo da Programação\", el lector podrá obtener todos los conocimientos básicos que lo prepararán para aprender cualquier lenguaje de programación que desee, así como tener acceso a un libro bien estructurado y desarrollado para reunirse. Todas sus necesidades en este primer contacto con el área de desarrollo.",
+    "marciocamara-calltoaction-title": "¡Descargue ahora gratuitamente!",
+    "marciocamara-calltoaction-button": "¡Descargue ahora!",
+    "marciocamara-contact-title": "¿Quiere saber más?",
+    "marciocamara-contact-paragraph1": "Ponte en contacto conmigo y te responderé lo antes posible!",
+    "marciocamara-contact-whatsapp": "WhatsApp",
+    "marciocamara-contact-email": "Correo electrónico"
+}

@@ -1,0 +1,37 @@
+{
+    "@metadata": {
+        "authors": [
+            "Marcio Câmara"
+        ],
+        "last-updated": "2019-03-12",
+        "locale": "en"
+    },
+    "marciocamara-menu-about": "About Me",
+    "marciocamara-menu-skills": "My Skills",
+    "marciocamara-menu-book": "My Book",
+    "marciocamara-menu-contact": "Contact",
+    "marciocamara-greetings": "Hi! My name is Marcio Câmara and I'm a",
+    "marciocamara-job": "Web Developer",
+    "marciocamara-button-more": "Find Out More",
+    "marciocamara-about-title": "A little about my history, dreams and wishes!",
+    "marciocamara-about-paragraph1": "Well, I'm a studant of the 2nd semester of System's Analysis and Development at FATEC Americana and passionate about programming.",
+    "marciocamara-about-paragraph2": "I'm actually working as Web Developer, creating from simple sites to the most varied complex systems.",
+    "marciocamara-about-paragraph3": "My very biggest goal nowadays is to become the best professional I can be, learning other programming languages and being part of great and inspiring projects.",
+    "marciocamara-about-paragraph4": "My very biggest dream is live in USA to work and study on the so dreamed Silicon Valley and MIT.",
+    "marciocamara-about-paragraph5": "Recently, I'm working on a book and a course to teach programming logic. Teaching is something I really enjoy and really makes me feel fulfilled. It makes me feel happy can show others a little about what I've learned so far.",
+    "marciocamara-skills-title": "My Skills and Interests",
+    "marciocamara-accessibility": "Accessibility",
+    "marciocamara-responsive-design": "Responsive Design",
+    "marciocamara-book-title": "About the Book",
+    "marciocamara-book-paragraph1": "When entering the world of programming, the traveler may feel somewhat intimidated and lost, in view of so many different paths to be cleared.",
+    "marciocamara-book-paragraph2": "The thirty pages of this compact book (for now only in portuguese), entitled \"Entrando com Tudo no Mundo da Programação\" provides the reader with all the necessary tools and knowledge to enable him to explore the many options that will follow.",
+    "marciocamara-book-list-title": "In this book you will see:",
+    "marciocamara-book-justify-title": "Why this book?",
+    "marciocamara-book-justify-paragraph1": "In the book \"Entrando com Tudo no Mundo da Programação\" the reader will be able to obtain all the basic knowledge, which will prepare him to learn any programming language he wants, as well as have access to a well structured and developed book to meet all his needs in this first contact with the area of development.",
+    "marciocamara-calltoaction-title": "Download now for free!",
+    "marciocamara-calltoaction-button": "Download Now!",
+    "marciocamara-contact-title": "Want to know more?",
+    "marciocamara-contact-paragraph1": "Contact me and I'll get back to you as soon as possible!",
+    "marciocamara-contact-whatsapp": "WhatsApp",
+    "marciocamara-contact-email": "E-mail"
+}

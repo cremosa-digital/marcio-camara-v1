@@ -1,0 +1,37 @@
+{
+    "@metadata": {
+        "authors": [
+            "Marcio Câmara"
+        ],
+        "last-updated": "2019-03-12",
+        "locale": "pt"
+    },
+    "marciocamara-menu-about": "Sobre Mim",
+    "marciocamara-menu-skills": "Minhas Habilidades",
+    "marciocamara-menu-book": "Meu Livro",
+    "marciocamara-menu-contact": "Contato",
+    "marciocamara-greetings": "Olá! Meu nome é Marcio Câmara e eu sou um",
+    "marciocamara-job": "Desenvolvedor Web",
+    "marciocamara-button-more": "Descubra Mais",
+    "marciocamara-about-title": "Um pouco sobre minha história, sonhos e desejos!",
+    "marciocamara-about-paragraph1": "Bem, eu sou um estudante do 2º semestre de Análise e Desenvolvimento de Sistemas na FATEC Americana e apaixonado por programação.",
+    "marciocamara-about-paragraph2": "Atualmente estou trabalhando como Desenvolvedor Web, criando desde sites simples até o mais variado tipo de sistemas mais complexos.",
+    "marciocamara-about-paragraph3": "Meu maior objetivo atualmente é me tornar o melhor profissional que eu possa ser, aprendendo outras linguagens de programação e fazendo parte de grandes e inspiradores projetos.",
+    "marciocamara-about-paragraph4": "Meu maior sonho é morar nos EUA para trabalhar e estudar nos tão sonhados Vale do Silício e MIT.",
+    "marciocamara-about-paragraph5": "Recentemente estou trabalhando em um livro e um curso para ensinar lógica de programação. Ensinar é algo que eu realmente gosto e realmente me faz sentir realizado. Poder mostrar para as outras pessoas um pouco sobre o que eu aprendi até aqui é algo que me faz feliz.",
+    "marciocamara-skills-title": "Minhas Habilidades e Interesses",
+    "marciocamara-accessibility": "Acessibilidade",
+    "marciocamara-responsive-design": "Design Responsivo",
+    "marciocamara-book-title": "Sobre o Livro",
+    "marciocamara-book-paragraph1": "Ao entrar no mundo da programação, o viajante pode se sentir um pouco intimidado e perdido, tendo em vista tantos caminhos diferentes a serem desbravados.",
+    "marciocamara-book-paragraph2": "As trinta páginas deste livro compacto (por enquanto apenas em português), intitulado \"Entrando com o Tudo no Mundo da Programação\", fornecem ao leitor todas as ferramentas e conhecimentos necessários para explorar as diversas opções que se seguirão.",
+    "marciocamara-book-list-title": "Nesse livro você verá:",
+    "marciocamara-book-justify-title": "Por que esse livro?",
+    "marciocamara-book-justify-paragraph1": "No livro \"Entrando com Tudo no Mundo da Programação\" o leitor será capaz de obter todo o conhecimento base, que o preparará para aprender qualquer linguagem de programação que ele desejar, bem como terá acesso a um livro bem estruturado e desenvolvido visando atender todas suas necessidades nesse primeiro contato com a área de desenvolvimento.",
+    "marciocamara-calltoaction-title": "Baixe agora gratuitamente!",
+    "marciocamara-calltoaction-button": "Baixe agora!",
+    "marciocamara-contact-title": "Quer saber mais?",
+    "marciocamara-contact-paragraph1": "Entre em contato comigo e eu retornarei assim que possível!",
+    "marciocamara-contact-whatsapp": "WhatsApp",
+    "marciocamara-contact-email": "E-mail"
+}

@@ -1,0 +1,151 @@
+.profile-picture {
+    border-radius: 50%;
+    border: solid 0.5vw white;
+    width: 15vw;
+}
+
+/* override das cores do fundo da home */
+header.masthead {
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, .8)),to(rgba(92, 77, 66, .5)));
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8) 0%, rgba(92, 77, 66, 0.5) 100%);
+}
+
+.list {
+    list-style: none;
+}
+
+.bar-item {
+    padding: .5em;
+    border: 1px solid white;
+    width: 100%;
+    text-align: center;
+    margin: 0 0 1em 0;
+    transition: color 0.4s linear;
+    position: relative;
+    z-index: 0!important;
+}
+
+.bar-item:hover i, .bar-item:hover span{
+    color: #ce350b!important;
+    font-weight: bold;
+}
+
+.bar-item:hover svg {
+    fill: #ce350b!important;
+}
+
+.bar-item::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: white;
+    z-index: -1;
+    transition: transform 0.5s;
+    transform-origin: 0 0;
+    transition-timing-function: cubic-bezier(0.5, 1.6, 0.4, 0.7);
+    transform: scaleX(0);
+}
+
+.bar-item:hover::before {
+    transform: scaleX(1);
+}
+
+#html::before, #css::before, #javascript::before,
+#responsive::before, #bootstrap::before, #jquery::before, #ajax::before {
+    width: 90%;
+}
+
+#php::before {
+    width: 80%;
+}
+
+#sass::before {
+    width: 50%;
+}
+
+#vuejs::before {
+    width: 30%;
+}
+
+#laravel::before {
+    width: 80%;
+}
+
+#cake::before {
+    width: 80%;
+}
+
+#vba::before {
+    width: 50%;
+}
+
+#mysql::before {
+    width: 60%;
+}
+
+#csharp::before {
+    width: 30%;
+}
+
+#accessibility::before {
+    width: 80%;
+}
+
+#arduino::before {
+    width: 20%;
+}
+
+#git::before {
+    width: 70%;
+}
+
+#scrum::before {
+    width: 50%;
+}
+
+#ui-ux::before {
+    width: 70%;
+}
+
+#xamarin::before {
+    width: 20%;
+}
+
+.bootstrap-icon {
+    border: 1px solid white;
+    padding: .1em .5em;
+    border-radius: 20%;
+}
+
+.mockup {
+    width: 100%;
+}
+
+.mockup-container {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: center;
+    align-items: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+}
+
+.footer-alternative {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    margin-bottom: 0;
+}
+
+.contacts {
+    margin: 3em 1em;
+}
